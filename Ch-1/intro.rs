@@ -2,6 +2,6 @@
 
 
 fn main() {
-    println!("Hello, Duniya!");
-    println!("Mera pehla Rust program hai!");
+    println!("Hello, world!");
+    println!("This is my first Rust program !");
 }
