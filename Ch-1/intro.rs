@@ -11,6 +11,6 @@ fn main() { //fn stands for function and it's how you define a function in Rust
 
     println!("This is my first Rust program !");
 
-
+    // so this is the a basic program for hello world in rust
 
 }
