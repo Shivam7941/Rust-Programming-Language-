@@ -65,5 +65,4 @@ If you find areas that could be clearer, spot errors, or have suggestions for im
 **Thank you again for being here. Let's build something amazing with Rust, together.**
 
 *Happy coding, and welcome to the Rust community!*
-
 🦀
